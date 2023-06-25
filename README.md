@@ -1,6 +1,6 @@
 # Weather Application
 
-This repository contains a weather application built using Python and tkinter. The application provides various features for weather analysis and visualization.
+This repository contains a weather application built using Python and tkinter. The application provides a very basic gui that was used for as a coding project. Please feel free to add or improve to this open source code. 
 
 ## Features
 
